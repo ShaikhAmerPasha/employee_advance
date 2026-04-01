@@ -255,6 +255,7 @@ fixtures = [
         "Skip Payment New",
         "Disable checkbox auto uncheck",
         "Amount Upding correcly in employee A",
+	"Amount Upding correcly in employee Advance1",
         "Bank Template",
         "SNB Bank"
     ]]]},
